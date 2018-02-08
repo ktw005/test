@@ -6,10 +6,10 @@ Git Test Document
 
 Change \# 1
 
-Including Code
---------------
+Change \#2
+----------
 
-You can include R code in the document as follows:
+Look at this change.
 
 ``` r
 summary(cars)
